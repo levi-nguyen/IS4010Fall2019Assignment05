@@ -1,5 +1,5 @@
 /*
- * IS4010 Fal 2019
+ * IS4010 Fall 2019 
  * Assignment 05
  * Duy Nguyen
  * nguyed4@mail.uc.edu
